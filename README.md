@@ -1,4 +1,4 @@
 # EE-418-Final-Project
 
 
-## See PDF File Above For Details Of Project with Plots
+## See "FinalProject.pdf" PDF File Above For Details Of Project with Plots
